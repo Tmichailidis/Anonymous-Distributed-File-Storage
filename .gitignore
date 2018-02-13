@@ -1,0 +1,11 @@
+# Compiled class file
+*.class
+
+# Mac #
+.DS_Store
+
+# Package Files #
+*.jar
+*.zip
+*.tar.gz
+*.rar
